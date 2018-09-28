@@ -1,0 +1,26 @@
+{
+  "name": "microsoft-exchange-sizer",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "array.prototype.find": "^2.0.4",
+    "grommet": "^1.9.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "redux": "^3.7.2",
+    "html2canvas":"1.0.0-alpha.12",
+    "react-tooltip":"3.6.1",
+    "react-render-html":"0.6.0",
+    "jquery":"3.3.1",
+    "react-beforeunload":"^1.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject" 
+  }
+}
